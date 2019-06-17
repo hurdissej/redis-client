@@ -1,0 +1,11 @@
+/Users/elliothurdiss/work/code/redis-client/bin/Debug/netcoreapp2.2/redis-client.deps.json
+/Users/elliothurdiss/work/code/redis-client/bin/Debug/netcoreapp2.2/redis-client.runtimeconfig.json
+/Users/elliothurdiss/work/code/redis-client/bin/Debug/netcoreapp2.2/redis-client.runtimeconfig.dev.json
+/Users/elliothurdiss/work/code/redis-client/bin/Debug/netcoreapp2.2/redis-client.dll
+/Users/elliothurdiss/work/code/redis-client/bin/Debug/netcoreapp2.2/redis-client.pdb
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.csprojAssemblyReference.cache
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.csproj.CoreCompileInputs.cache
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.AssemblyInfoInputs.cache
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.AssemblyInfo.cs
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.dll
+/Users/elliothurdiss/work/code/redis-client/obj/Debug/netcoreapp2.2/redis-client.pdb
