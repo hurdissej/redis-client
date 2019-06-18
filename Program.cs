@@ -10,8 +10,8 @@ namespace redis_client
         static void Main(string[] args)
         {
             IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName()); 
-            IPAddress ipAddr = ipHost.AddressList[0]; 
-            IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 6379); 
+            IPAddress ipAddr = IPAddress.Parse("127.0.0.1"); 
+            IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 6378); 
   
             // Creation TCP/IP Socket using  
             // Socket Class Costructor 
